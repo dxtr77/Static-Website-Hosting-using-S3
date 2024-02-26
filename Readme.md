@@ -36,6 +36,7 @@ Amazon S3 (Simple Storage Service) is a highly scalable, reliable, and cost-effe
 
 * Click on the "Bucket Policy" section under the "Permissions" tab.
 * Use the following policy, replacing your-bucket-name with your actual bucket name:
+
 JSON
 ```
 {
